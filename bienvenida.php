@@ -27,7 +27,7 @@ if (!isset($_SESSION['usuario'])) {
     <title>Indastrom</title>
 </head>
 <body>
-    <h1>HOLA SI SE PUDOOO</h1>
+    <h1>HOLA SI SE PUDOOooooO</h1>
     <a href="php/cerrar_sesion.php">Cerrar Sesion</a>
 </body>
 </html>
